@@ -1,5 +1,5 @@
 # tradeling
-How to Exexute the Test:
+How to Execute the Test:
 
 
 
